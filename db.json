@@ -894,17 +894,400 @@
     {
      "id": 1,
      "rating": 3 , 
-  "categories": "PC Laptops",
-  "title": "HP - 15.6' Touch-Screen - Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Natural Silver",
+  "categories": "Shirts",
+  "title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
   "price": 399,
   "realPrice":600 , 
-  "brand" :"HP" , 
-  "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
-  "color": "Silver",
+  "brand" :"Carbonn Cloth " , 
+  "description": "Carbonn Cloth presents to you a new range of stylish and cool new Shirts yet which are affordable for everyone .These comes in different sizes and colors, for everybody's taste",
+  "color": "Black",
   "discount": "42",
    "reviews" : ["Great Product" , "Value for money" ] , 
-   "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
+   "Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70" } , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/9/v/3/s-crc-den-01-carbonn-cloth-original-imag3uyx2crqr6me.jpeg?q=70"} ,{"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/b/c/t/s-crc-den-01-carbonn-cloth-original-imag3uyxgrrxxyrq.jpeg?q=70"} ] , 
+
+   "mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70"
+} ,
+
+{
+  "id":2 ,
+  "rating": 4  , 
+"categories": "Shirts",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":3 ,
+  "rating": 4  , 
+"categories": "Shirts",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":4 ,
+  "rating": 4  , 
+"categories": "Shirts",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":5 ,
+  "rating": 4  , 
+"categories": "Shirts",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":6 ,
+  "rating": 4  , 
+"categories": "Shirts",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+}, 
+
+{
+  "id":7 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":8 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":9 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":10 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":11 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":12 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":13 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":14 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":15 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":16 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":17 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":18 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":19 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":20 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
+},
+
+{
+  "id":21 ,
+  "rating": 4  , 
+"categories": "",
+"title": "",
+"price": 399,
+"realPrice":600 , 
+"brand" :"Carbonn Cloth " , 
+"description": "",
+"color": "",
+"discount": "",
+"reviews" : ["Great Product" , "Value for money" ] , 
+"Images": [  {"imageFront":"" }
+ , {"imageFront":""} ,
+ {"imageFront":""} ] , 
+
+"mainImage":""
 }
+
 ]
 
    
