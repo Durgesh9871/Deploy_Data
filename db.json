@@ -918,7 +918,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -937,7 +937,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -956,7 +956,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -972,10 +972,10 @@
 "title": "",
 "price": 350,
 "realPrice":550 , 
-"brand" :"Carbonn Cloth " , 
+"brand" :"" , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -991,10 +991,10 @@
 "title": "",
 "price": 99,
 "realPrice":190 , 
-"brand" :"Carbonn Cloth " , 
+"brand" :"" , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1013,7 +1013,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1032,7 +1032,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1051,7 +1051,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1070,7 +1070,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1089,7 +1089,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1108,7 +1108,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1127,7 +1127,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1146,7 +1146,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1165,7 +1165,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1184,7 +1184,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1203,7 +1203,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1222,7 +1222,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1241,7 +1241,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1260,7 +1260,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
@@ -1279,7 +1279,7 @@
 "brand" :"Carbonn Cloth " , 
 "description": "",
 "color": "",
-"discount": "",
+"discount": "1",
 "reviews" : ["Great Product" , "Value for money" ] , 
 "Images": [  {"imageFront":"" }
  , {"imageFront":""} ,
