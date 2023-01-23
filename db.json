@@ -1292,225 +1292,27 @@
 
 ],
 
-"reviewRating1":[
+"getReview": [
   {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Quality is perfect" , 
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70" ,
-    "like":10 , 
-    "disLike": 3 
-   }
-],
-
-"reviewRating2":[
+    "id": 1,
+    "review": 4 
+  },
   {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Good product" , 
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/h/3/j/m-crc-den-01-carbonn-blue-original-imafv2h7g7bvgfdz-bb.jpeg?q=70" ,
-    "like":15 , 
-    "disLike": 3 
-   }
-],
-"reviewRating3":[
+    "review": 5,
+    "id": 2
+  },
   {
-    "id":1 ,
-    "rating": 3 ,
-    "title":"Fabrix Quality" , 
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/n/y/s-crc-den-01-carbonn-cloth-original-imag3uyxtxa2j5r2-bb.jpeg?q=70" ,
-    "like":19 , 
-    "disLike": 2 
-   }
-],
-"reviewRating4":[
+    "review": 4,
+    "id": 3
+  },
   {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Comfort" , 
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/4/5/l-crc-ch-01-carbonn-cloth-original-imag3uyxrg7azzhh-bb.jpeg?q=70" ,
-    "like":14 , 
-    "disLike": 5 
-   }
-],
-"reviewRating5":[
+    "review": 5,
+    "id": 4
+  },
   {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" , 
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/a/n/g/l-coc0149b-cave-of-cloths-original-imaghd7hbszcpuxq.jpeg?q=70" ,
-    "like":17 , 
-    "disLike": 6 
-   }
-],
-"reviewRating6":[
-  {
-    "id":1 ,
-    "rating": 3 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/r/3/q/xxl-coc0151w-cave-of-cloths-original-imaghfheycshhm4s.jpeg?q=70" ,
-    "like":21 , 
-    "disLike": 6 
-   }
-],
-"reviewRating7":[
-  {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l5h2xe80/fabric/c/e/b/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imagg4wzdrhzfvcn.jpeg?q=70" ,
-    "like":28 , 
-    "disLike": 3 
-   }
-],
-"reviewRating8":[
-  {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/k/p/n/no-2-m-unstitched-na-black-suit-fabric-lorex-original-imaghhy9uf3xpvmc.jpeg?q=70" ,
-    "like":29 , 
-    "disLike": 3 
-   }
-],
-"reviewRating9":[
-  {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/fabric/t/2/j/no-1-80-m-unstitched-na-blacksuitsb-lorex-original-imagg4a5vanbmwnx.jpeg?q=70" ,
-    "like":15 , 
-    "disLike": 2 
-   }
-],
-"reviewRating10":[
-  {
-    "id":1 ,
-    "rating": 3 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/fabric/f/b/y/no-1-70-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagcum7tawzfpdx.jpeg?q=70" ,
-    "like":10 , 
-    "disLike": 5 
-   }
-],
-"reviewRating11":[
-  {
-    "id":1 ,
-    "rating": 3 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/d/e/2/m-premium-waistcoats-lorex-original-imagkpxhj6hzgck7.jpeg?q=70" ,
-    "like":19 , 
-    "disLike": 4 
-   }
-],
-"reviewRating12":[
-  {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/n/6/a/m-premium-waistcoats-lorex-original-imagkpxhvfjpvgea.jpeg?q=70" ,
-    "like":15 , 
-    "disLike": 3 
-   }
-],
-"reviewRating13":[
-  {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/d/b/2/l-gray-103-red-cloth-original-imagb8khdpbgsj87.jpeg?q=70" ,
-    "like":18 , 
-    "disLike": 2 
-   }
-],
-"reviewRating14":[
-  {
-    "id":1 ,
-    "rating": 2 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/t/d/0/m-white-103-red-cloth-original-imagb8jytaqvytup.jpeg?q=70" ,
-    "like":20 , 
-    "disLike": 4 
-   }
-],
-"reviewRating15":[
-  {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/q/u/y/l-blue-103-red-cloth-original-imagb8kbfdetazqz.jpeg?q=70" ,
-    "like":35 , 
-    "disLike": 7 
-   }
-],
-"reviewRating16":[
-  {
-    "id":1 ,
-    "rating": 2 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70" ,
-    "like":22 , 
-    "disLike": 1 
-   }
-],
-"reviewRating17":[
-  {
-    "id":1 ,
-    "rating": 2 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70" ,
-    "like":10 , 
-    "disLike": 2 
-   }
-],
-"reviewRating18":[
-  {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70" ,
-    "like":22 , 
-    "disLike": 5 
-   }
-],
-"reviewRating19":[
-  {
-    "id":1 ,
-    "rating": 5 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/l/g/w/xl-no-greyjacketmen6-r-d-trading-original-imag678wt7kkmpeb.jpeg?q=70" ,
-    "like":24 , 
-    "disLike": 6 
-   }
-],
-"reviewRating20":[
-  {
-    "id":1 ,
-    "rating": 3 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/l-bomber-tpu-derbenny-original-imafx64wzqrhmfap.jpeg?q=70" ,
-    "like":21 , 
-    "disLike": 4 
-   }
-],
-"reviewRating21":[
-  {
-    "id":1 ,
-    "rating": 4 ,
-    "title":"Quality is perfect" ,
-    "image":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/w/w/n/xl-no-bluejacketmen2-r-d-trading-original-imag676zyqhqzmf7.jpeg?q=70" ,
-    "like":12 , 
-    "disLike": 3 
-   }
+    "review": 5,
+    "id": 5 
+  }
 ]
 
-
-
-   
-  
-     
-
-  
-  
-  
-  }
+}
