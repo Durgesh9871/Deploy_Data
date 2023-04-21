@@ -1,607 +1,995 @@
 {
-
-    "Laptop": [
-      {
-       "id": 1,
-       "rating": 3 , 
-    "categories": "PC Laptops",
-    "title": "HP - 15.6' Touch-Screen - Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Natural Silver",
-    "price": 399,
-    "realPrice":600 , 
-    "brand" :"HP" , 
-    "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
-    "color": "Silver",
-    "discount": "42",
-     "reviews" : ["Great Product" , "Value for money" ] , 
-     "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 2,
-      "rating": 4 , 
-   "categories": "PC Laptops",
-   "title": "HP - Spectre x360 2-in-1 13.5' 3K2K Touch-Screen Laptop - Intel Evo Core i7 - 16GB Memory - 1TB SSD - Pen Included - Nightfall Black",
-   "price": 1249,
-   "realPrice":1800 , 
-   "brand" :"HP" , 
-   "description": "Dynamic premium video experience: When you go live, you want to look your best. So turn it on for the 5MP GlamCam with Appearance Filter, Backlight Adjustment, Auto Frame, and AI noise reduction for the best, most productive calls. It also features a physical camera shutter for privacy, because when you’re on, you’re on, and when you’re not, you’re not Latest technology: This powerful machine comes with up to a 12th Gen Intel Core i7 processor and a 3:2 aspect ratio for a taller screen so you can see more.(20) With the x360 2-in-1 design you can use it as a laptop, flip it around to use it as a tablet or put it in tent mode to stream away. Because little things make a big difference: Crafted from recycled aluminum and ocean-bound plastics, this 2-in-1 laptop is EPEAT Gold Certified and ENERGY STAR rated so you can feel like you made a difference, along with a great choice",
-   "color": "Black",
-   "discount": "50",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 3,
-      "rating": 3 , 
-   "categories": "PC Laptops",
-   "title": "HP - 15.6' Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
-   "price": 399,
-   "realPrice":600 , 
-   "brand" :"HP" , 
-   "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
-   "color": "Silver",
-   "discount": "32",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 4,
-      "rating": 5 , 
-   "categories": "PC Laptops",
-   "title": "HP - Stream 11.6' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Diamond White",
-   "price": 179,
-   "realPrice":200 , 
-   "brand" :"HP" , 
-   "description": "Extremely portable. Expressive design. Live your best life on-the-go and in style with a slim, expressive design. With its smooth finish, vertical brushed pattern, and pop of color, the HP Stream perfectly fits your personality. More features. More value. With an Intel processor and up to 13 hours and 15 minutes of video playback battery life, work all day or binge-watch your favorite shows – all while staying under budget. Plus, stay connected with fast Wi-Fi and all the ports you need. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
-   "color": "White",
-   "discount": "52",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 5,
-      "rating": 3 , 
-   "categories": "PC Laptops",
-   "title": "HP - 14' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Rose Gold",
-   "price": 189,
-   "realPrice":350 , 
-   "brand" :"HP" , 
-   "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
-   "color": "Rose Gold",
-   "discount": "50",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 6,
-      "rating": 4 , 
-   "categories": "PC Laptops",
-   "title": "ASUS - Zenbook Flip 2-in-1 15.6' OLED Touch-Screen Laptop - Intel Evo - Core i7 - Intel Arc A370M - 16GB Memory - 1TB SSD - Azurite Blue",
-   "price": 1199,
-   "realPrice":3000 , 
-   "brand" :"ASUS" , 
-   "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
-   "color": "Blue",
-   "discount": "20",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv3d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 7,
-      "rating": 4 , 
-   "categories": "PC Laptops",
-   "title": "ASUS - Zenbook 14' 2.8K OLED Laptop - Intel Evo Platform - 12th Gen Core i5 Processor - 8GB Memory - 256GB SSD - Ponder Blue",
-   "price": 549,
-   "realPrice":600 , 
-   "brand" :"ASUS" , 
-   "description": "The powerful and compact Zenbook 14' OLED is just 0.67” slim and 3.06lbs light, with a breathtaking new design that’s timelessly elegant yet totally modern. Perfect visual experience from the 14” 16:10 2.8K OLED HDR NanoEdge, up to 600-nit screen which is PANTONE Validated with 100% DCI-P3 color gamut. The Intel EVO platform with 12th Gen Intel Core i5 Processor, Intel Iris Xe graphics, 8 GB RAM and 256GB PCIe 4.0 SSD deliver superb performance, and there’s a long-lasting 75 Wh battery and latest Wifi-6 built-in. For extraordinary audio experience, there’s a Dolby Atmos sound system powered by a smart amplifier with Harman/Kardon certified. The user-centric design includes one-touch login with a fingerprint sensor on the power button, the new ASUS ErgoSense keyboard, and the efficient ASUS NumberPad 2.0. ASUS Zenbook 14 OLED is the new benchmark for portable perfection.",
-   "color": "Blue",
-   "discount": "30",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 8,
-      "rating": 4 , 
-   "categories": "Chromebook",
-   "title": "ASUS - 14' Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver",
-   "price": 500,
-   "realPrice":900 , 
-   "brand" :"ASUS" , 
-   "description": "Simplify your life with the sleek and stylish ASUS Chromebook C425, the 14-inch laptop that has all the power to make light work of your daily tasks. Powered by up to an Intel Core m3 processor, ASUS Chromebook C425 boosts your productivity and lets you have more fun on the move — wherever you are, whatever you’re doing. Its compact NanoEdge design pops easily into any bag, and its all-day battery eliminates power-outlet anxiety for a worry-free lifestyle.",
-   "color": "Silver",
-   "discount": "20",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 9,
-      "rating": 5 , 
-   "categories": "Vivobook",
-   "title": "ASUS - Vivobook 17.3' Laptop - Intel Core 10th Gen i5 - 12GB Memory - 1TB HDD",
-   "price": 399,
-   "realPrice":500 , 
-   "brand" :"ASUS" , 
-   "description": "ASUS Vivobook Laptop. Enjoy everyday activities with this ASUS notebook PC. The Intel Core i5 processor and 12GB of RAM let you run programs smoothly, on the 17.3-inch",
-   "color": "Silver",
-   "discount": "30",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 10,
-      "rating": 5 , 
-   "categories": "PC Laptops",
-   "title": "ASUS - ROG Zephyrus 14” WQXGA 120Hz Gaming Laptop – AMD Ryzen 9– 16GB DDR5 Memory – AMD Radeon RX 6700S – 1TB PCIe 4.0 SSD",
-   "price": 1249,
-   "realPrice":1600 , 
-   "brand" :"ASUS" , 
-   "description": "Game like a pro on Windows 11 with this ROG Zephyrus G14. Double up on AMD firepower with Ryzen 9 6900HS CPU and Radeon RX 6700S GPU featuring exclusive AMD SmartShift and Smart Access Memory technology that dynamically boosts performance for any task. Be confident in screen quality with an ROG Nebula 120Hz Display. Leap into the next generation of memory and storage with 16GB of DDR5 RAM, and 1TB of PCIe 4.0 SSD storage.",
-   "color": "White",
-   "discount": "60",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638_rd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv1d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv4d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 11,
-      "rating": 3 , 
-   "categories": "Touch-Screen",
-   "title": "Microsoft - Surface Laptop Go 2 - 12.4” Touch-Screen – Intel Core i5 – 8GB Memory - 128GB SSD (Latest Model) - Sage",
-   "price": 699,
-   "realPrice":900 , 
-   "brand" :"Microsoft" , 
-   "description": "A sleek, portable Surface Laptop with 12.4' PixelSense touchscreen¹ and great typing experience with precision trackpad, plus the ports you need. Now with an improved HD camera to look your best on video calls, new Windows 11 experiences,² long battery life,³ and a performance boost for the things you love to do. With 11th Gen Intel speed for day-to-day apps, streaming, and casual gaming. It’s signature Surface style, speed, and convenient security for you and everyone in your home.",
-   "color": "Green",
-   "discount": "20",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv13d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 12,
-      "rating": 3 , 
-   "categories": "Touch-Screen",
-   "title": "Microsoft - Surface Pro 9 – 13' Touch Screen – Intel Evo Platform Core i7- 16GB Memory – 256GB SSD – Device Only (Latest Model) - Forest",
-   "price": 900,
-   "realPrice":1000 , 
-   "brand" :"Microsoft" , 
-   "description": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life¹ you need to move through your day — all in one ultra-portable device. Now with powerful new processors, and choice of vibrant colors.",
-   "color": "Green",
-   "discount": "40",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 13,
-      "rating": 3 , 
-   "categories": "Touch-Screen",
-   "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i5 – 8GB Memory – 512GB SSD (Latest Model) - Sandstone",
-   "price": 1244,
-   "realPrice":1900 , 
-   "brand" :"Microsoft" , 
-   "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
-   "color": "Tan",
-   "discount": "30",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 14,
-      "rating": 2 , 
-   "categories": "Touch-Screen",
-   "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i7 – 16GB Memory – 512GB SSD (Latest Model) - Sandstone",
-   "price": 2000,
-   "realPrice":5600 , 
-   "brand" :"Microsoft" , 
-   "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
-   "color": "Tan",
-   "discount": "10",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667_sd.jpg;maxHeight=200;maxWidth=300" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv15d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 15,
-      "rating": 5 , 
-   "categories": "Touch-Screen",
-   "title": "Microsoft - Surface Laptop 5 – 15” Touch Screen – Intel Evo Platform Core i7 – 8GB Memory – 256GB SSD (Latest Model) - Platinum",
-   "price": 2500,
-   "realPrice":3600 , 
-   "brand" :"Microsoft" , 
-   "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
-   "color": "Silver",
-   "discount": "10",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644_sd.jpg;maxHeight=200;maxWidth=300" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv12d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv11d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 16,
-      "rating": 4 , 
-   "categories": "Touch-Laptop",
-   "title": "Dell - Inspiron 2-in-1 14” FHD+ Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD - Platinum Silver",
-   "price": 1500,
-   "realPrice":2000 , 
-   "brand" :"Dell" , 
-   "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
-   "color": "Silver",
-   "discount": "30",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381ld.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 17,
-      "rating": 3 , 
-   "categories": "Touch-Laptop",
-   "title": "Dell - Inspiron 2-in-1 16” FHD+ Touch Laptop – 12th Gen Intel Evo i7 – 16GB Memory – 512GB SSD - Platinum Silver",
-   "price": 1300,
-   "realPrice":1900 , 
-   "brand" :"Dell" , 
-   "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
-   "color": "Silver",
-   "discount": "25",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 18,
-      "rating": 5 , 
-   "categories": "Touch-Laptop",
-   "title": "Dell - Inspiron 3511 15.6' Touch Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",
-   "price": 1200,
-   "realPrice":1700 , 
-   "brand" :"Dell" , 
-   "description": "The Inspiron laptop is designed with you and the environment in mind, using recycled plastics. Plus, it’s ENERGY STAR 8.0 certified and built with an ergonomic lift hinge design to keep you comfortably connected all day. The Inspiron 15 3000 is expertly designed to keep you connected, powered by the latest processors.",
-   "color": "Black",
-   "discount": "20",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646cv3d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_rd.jpg;maxHeight=640;maxWidth=550"} ]  
-  },
-  {
-      "id": 19,
-      "rating": 4 , 
-   "categories": "Touch-Laptop",
-   "title": "Dell - XPS 13 Plus 13.4' OLED Touch-Screen Laptop – 12th Gen Intel Evo i7 - 32GB Memory - 1TB SSD - Black",
-   "price": 500,
-   "realPrice":600 , 
-   "brand" :"Dell" , 
-   "description": "XPS products are designed to be the best, withcutting-edge technologies, exceptional build quality,unique materials and powerful features. XPS brings together the most elegant designs and premiumexperiences to enhance your work and personalsuccess. This combination ultimately results in beautifully crafted products with no compromises. Introducing the new Dell XPS 13 Plus - our most powerful 13-inch XPS yet. Designed from the ground up to be our highest performing flagship 13 ever so you can do everything you love to do faster. The simplified interiors wow and the best-inclass panels bring your content to life. Featuring the latest Intel 12th Gen Intel Core Evo platform processors and displays with high resolution, brightness and color gamut to bring content to life. Simplified, modern and edge-to-edge interiors are beautiful and provide a seamless, touch-friendly experience for users.",
-   "color": "Black",
-   "discount": "5",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256_rd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256cv10d.jpg"} ]  
-  },
-  {
-      "id": 20,
-      "rating": 2 , 
-   "categories": "Touch-Laptop",
-   "title": "Dell - Inspiron 2-in-1 16” OLED Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD – NVIDIA GeForce MX550 - Atlantic Green",
-   "price": 999,
-   "realPrice":1200 , 
-   "brand" :"Dell" , 
-   "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. See your beautiful world whenever you want with the new Inspiron 16 2-in-1. It features an OLED display and 16:10 aspect ratio packed into a slim 2-in-1 design. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
-   "color": "Green",
-   "discount": "10",
-    "reviews" : ["Great Product" , "Value for money" ] , 
-    "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388cv3d.jpg;maxHeight=640;maxWidth=550"} ]  
-  }
-  
-          
-  
-    ] ,
-    "PeopleAlsoBoughtLaptop":[
-      { 
-      "id":101 , 
-     "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6424/6424893_sd.jpg;maxHeight=200;maxWidth=300" , 
-     "title":"Bluetooth Fast Scrolling Mouse "  , 
-     "price" :"79"  
-    },
-    { 
-      "id":102 , 
-     "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6519/6519951_sd.jpg;maxHeight=200;maxWidth=300" , 
-     "title":"Wireless All in one Injket Printer"  , 
-     "price" :"200"  
-    },
-    { 
-      "id":103 , 
-     "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6319/6319724_sd.jpg;maxHeight=200;maxWidth=300" , 
-     "title":"Epson - Color Document Scanner - Black"  , 
-     "price" :"150"  
-    },
-    { 
-      "id":104 , 
-     "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453222cv11d.jpg;maxHeight=200;maxWidth=300" , 
-     "title":"Corsair T3 RUSH Gaming Chair - Charcoal"  , 
-     "price" :"319"  
-    }
-  ] ,
-
-  
-
-"AllProductsData":[
-  
+  "Laptop": [
     {
-     "id": 1,
-     "rating": 3 , 
-  "categories": "PC Laptops",
-  "title": "HP - 15.6' Touch-Screen - Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Natural Silver",
-  "price": 399,
-  "realPrice":600 , 
-  "brand" :"HP" , 
-  "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
-  "color": "Silver",
-  "discount": "42",
-   "reviews" : ["Great Product" , "Value for money" ] , 
-   "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 2,
-    "rating": 4 , 
- "categories": "PC Laptops",
- "title": "HP - Spectre x360 2-in-1 13.5' 3K2K Touch-Screen Laptop - Intel Evo Core i7 - 16GB Memory - 1TB SSD - Pen Included - Nightfall Black",
- "price": 1249,
- "realPrice":1800 , 
- "brand" :"HP" , 
- "description": "Dynamic premium video experience: When you go live, you want to look your best. So turn it on for the 5MP GlamCam with Appearance Filter, Backlight Adjustment, Auto Frame, and AI noise reduction for the best, most productive calls. It also features a physical camera shutter for privacy, because when you’re on, you’re on, and when you’re not, you’re not Latest technology: This powerful machine comes with up to a 12th Gen Intel Core i7 processor and a 3:2 aspect ratio for a taller screen so you can see more.(20) With the x360 2-in-1 design you can use it as a laptop, flip it around to use it as a tablet or put it in tent mode to stream away. Because little things make a big difference: Crafted from recycled aluminum and ocean-bound plastics, this 2-in-1 laptop is EPEAT Gold Certified and ENERGY STAR rated so you can feel like you made a difference, along with a great choice",
- "color": "Black",
- "discount": "50",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 3,
-    "rating": 3 , 
- "categories": "PC Laptops",
- "title": "HP - 15.6' Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
- "price": 399,
- "realPrice":600 , 
- "brand" :"HP" , 
- "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
- "color": "Silver",
- "discount": "32",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 4,
-    "rating": 5 , 
- "categories": "PC Laptops",
- "title": "HP - Stream 11.6' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Diamond White",
- "price": 179,
- "realPrice":200 , 
- "brand" :"HP" , 
- "description": "Extremely portable. Expressive design. Live your best life on-the-go and in style with a slim, expressive design. With its smooth finish, vertical brushed pattern, and pop of color, the HP Stream perfectly fits your personality. More features. More value. With an Intel processor and up to 13 hours and 15 minutes of video playback battery life, work all day or binge-watch your favorite shows – all while staying under budget. Plus, stay connected with fast Wi-Fi and all the ports you need. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
- "color": "White",
- "discount": "52",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 5,
-    "rating": 3 , 
- "categories": "PC Laptops",
- "title": "HP - 14' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Rose Gold",
- "price": 189,
- "realPrice":350 , 
- "brand" :"HP" , 
- "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
- "color": "Rose Gold",
- "discount": "50",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 6,
-    "rating": 4 , 
- "categories": "PC Laptops",
- "title": "ASUS - Zenbook Flip 2-in-1 15.6' OLED Touch-Screen Laptop - Intel Evo - Core i7 - Intel Arc A370M - 16GB Memory - 1TB SSD - Azurite Blue",
- "price": 1199,
- "realPrice":3000 , 
- "brand" :"ASUS" , 
- "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
- "color": "Blue",
- "discount": "20",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv3d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 7,
-    "rating": 4 , 
- "categories": "PC Laptops",
- "title": "ASUS - Zenbook 14' 2.8K OLED Laptop - Intel Evo Platform - 12th Gen Core i5 Processor - 8GB Memory - 256GB SSD - Ponder Blue",
- "price": 549,
- "realPrice":600 , 
- "brand" :"ASUS" , 
- "description": "The powerful and compact Zenbook 14' OLED is just 0.67” slim and 3.06lbs light, with a breathtaking new design that’s timelessly elegant yet totally modern. Perfect visual experience from the 14” 16:10 2.8K OLED HDR NanoEdge, up to 600-nit screen which is PANTONE Validated with 100% DCI-P3 color gamut. The Intel EVO platform with 12th Gen Intel Core i5 Processor, Intel Iris Xe graphics, 8 GB RAM and 256GB PCIe 4.0 SSD deliver superb performance, and there’s a long-lasting 75 Wh battery and latest Wifi-6 built-in. For extraordinary audio experience, there’s a Dolby Atmos sound system powered by a smart amplifier with Harman/Kardon certified. The user-centric design includes one-touch login with a fingerprint sensor on the power button, the new ASUS ErgoSense keyboard, and the efficient ASUS NumberPad 2.0. ASUS Zenbook 14 OLED is the new benchmark for portable perfection.",
- "color": "Blue",
- "discount": "30",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 8,
-    "rating": 4 , 
- "categories": "Chromebook",
- "title": "ASUS - 14' Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver",
- "price": 500,
- "realPrice":900 , 
- "brand" :"ASUS" , 
- "description": "Simplify your life with the sleek and stylish ASUS Chromebook C425, the 14-inch laptop that has all the power to make light work of your daily tasks. Powered by up to an Intel Core m3 processor, ASUS Chromebook C425 boosts your productivity and lets you have more fun on the move — wherever you are, whatever you’re doing. Its compact NanoEdge design pops easily into any bag, and its all-day battery eliminates power-outlet anxiety for a worry-free lifestyle.",
- "color": "Silver",
- "discount": "20",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 9,
-    "rating": 5 , 
- "categories": "Vivobook",
- "title": "ASUS - Vivobook 17.3' Laptop - Intel Core 10th Gen i5 - 12GB Memory - 1TB HDD",
- "price": 399,
- "realPrice":500 , 
- "brand" :"ASUS" , 
- "description": "ASUS Vivobook Laptop. Enjoy everyday activities with this ASUS notebook PC. The Intel Core i5 processor and 12GB of RAM let you run programs smoothly, on the 17.3-inch",
- "color": "Silver",
- "discount": "30",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 10,
-    "rating": 5 , 
- "categories": "PC Laptops",
- "title": "ASUS - ROG Zephyrus 14” WQXGA 120Hz Gaming Laptop – AMD Ryzen 9– 16GB DDR5 Memory – AMD Radeon RX 6700S – 1TB PCIe 4.0 SSD",
- "price": 1249,
- "realPrice":1600 , 
- "brand" :"ASUS" , 
- "description": "Game like a pro on Windows 11 with this ROG Zephyrus G14. Double up on AMD firepower with Ryzen 9 6900HS CPU and Radeon RX 6700S GPU featuring exclusive AMD SmartShift and Smart Access Memory technology that dynamically boosts performance for any task. Be confident in screen quality with an ROG Nebula 120Hz Display. Leap into the next generation of memory and storage with 16GB of DDR5 RAM, and 1TB of PCIe 4.0 SSD storage.",
- "color": "White",
- "discount": "60",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638_rd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv1d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv4d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 11,
-    "rating": 3 , 
- "categories": "Touch-Screen",
- "title": "Microsoft - Surface Laptop Go 2 - 12.4” Touch-Screen – Intel Core i5 – 8GB Memory - 128GB SSD (Latest Model) - Sage",
- "price": 699,
- "realPrice":900 , 
- "brand" :"Microsoft" , 
- "description": "A sleek, portable Surface Laptop with 12.4' PixelSense touchscreen¹ and great typing experience with precision trackpad, plus the ports you need. Now with an improved HD camera to look your best on video calls, new Windows 11 experiences,² long battery life,³ and a performance boost for the things you love to do. With 11th Gen Intel speed for day-to-day apps, streaming, and casual gaming. It’s signature Surface style, speed, and convenient security for you and everyone in your home.",
- "color": "Green",
- "discount": "20",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv13d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 12,
-    "rating": 3 , 
- "categories": "Touch-Screen",
- "title": "Microsoft - Surface Pro 9 – 13' Touch Screen – Intel Evo Platform Core i7- 16GB Memory – 256GB SSD – Device Only (Latest Model) - Forest",
- "price": 900,
- "realPrice":1000 , 
- "brand" :"Microsoft" , 
- "description": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life¹ you need to move through your day — all in one ultra-portable device. Now with powerful new processors, and choice of vibrant colors.",
- "color": "Green",
- "discount": "40",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 13,
-    "rating": 3 , 
- "categories": "Touch-Screen",
- "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i5 – 8GB Memory – 512GB SSD (Latest Model) - Sandstone",
- "price": 1244,
- "realPrice":1900 , 
- "brand" :"Microsoft" , 
- "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
- "color": "Tan",
- "discount": "30",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv14d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 14,
-    "rating": 2 , 
- "categories": "Touch-Screen",
- "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i7 – 16GB Memory – 512GB SSD (Latest Model) - Sandstone",
- "price": 2000,
- "realPrice":5600 , 
- "brand" :"Microsoft" , 
- "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
- "color": "Tan",
- "discount": "10",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667_sd.jpg;maxHeight=200;maxWidth=300" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv11d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv15d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 15,
-    "rating": 5 , 
- "categories": "Touch-Screen",
- "title": "Microsoft - Surface Laptop 5 – 15” Touch Screen – Intel Evo Platform Core i7 – 8GB Memory – 256GB SSD (Latest Model) - Platinum",
- "price": 2500,
- "realPrice":3600 , 
- "brand" :"Microsoft" , 
- "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
- "color": "Silver",
- "discount": "10",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644_sd.jpg;maxHeight=200;maxWidth=300" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv12d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv11d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 16,
-    "rating": 4 , 
- "categories": "Touch-Laptop",
- "title": "Dell - Inspiron 2-in-1 14” FHD+ Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD - Platinum Silver",
- "price": 1500,
- "realPrice":2000 , 
- "brand" :"Dell" , 
- "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
- "color": "Silver",
- "discount": "30",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381ld.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 17,
-    "rating": 3 , 
- "categories": "Touch-Laptop",
- "title": "Dell - Inspiron 2-in-1 16” FHD+ Touch Laptop – 12th Gen Intel Evo i7 – 16GB Memory – 512GB SSD - Platinum Silver",
- "price": 1300,
- "realPrice":1900 , 
- "brand" :"Dell" , 
- "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
- "color": "Silver",
- "discount": "25",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380cv1d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 18,
-    "rating": 5 , 
- "categories": "Touch-Laptop",
- "title": "Dell - Inspiron 3511 15.6' Touch Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",
- "price": 1200,
- "realPrice":1700 , 
- "brand" :"Dell" , 
- "description": "The Inspiron laptop is designed with you and the environment in mind, using recycled plastics. Plus, it’s ENERGY STAR 8.0 certified and built with an ergonomic lift hinge design to keep you comfortably connected all day. The Inspiron 15 3000 is expertly designed to keep you connected, powered by the latest processors.",
- "color": "Black",
- "discount": "20",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646cv3d.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_rd.jpg;maxHeight=640;maxWidth=550"} ]  
-},
-{
-    "id": 19,
-    "rating": 4 , 
- "categories": "Touch-Laptop",
- "title": "Dell - XPS 13 Plus 13.4' OLED Touch-Screen Laptop – 12th Gen Intel Evo i7 - 32GB Memory - 1TB SSD - Black",
- "price": 500,
- "realPrice":600 , 
- "brand" :"Dell" , 
- "description": "XPS products are designed to be the best, withcutting-edge technologies, exceptional build quality,unique materials and powerful features. XPS brings together the most elegant designs and premiumexperiences to enhance your work and personalsuccess. This combination ultimately results in beautifully crafted products with no compromises. Introducing the new Dell XPS 13 Plus - our most powerful 13-inch XPS yet. Designed from the ground up to be our highest performing flagship 13 ever so you can do everything you love to do faster. The simplified interiors wow and the best-inclass panels bring your content to life. Featuring the latest Intel 12th Gen Intel Core Evo platform processors and displays with high resolution, brightness and color gamut to bring content to life. Simplified, modern and edge-to-edge interiors are beautiful and provide a seamless, touch-friendly experience for users.",
- "color": "Black",
- "discount": "5",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256_rd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256ld.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256cv10d.jpg"} ]  
-},
-{
-    "id": 20,
-    "rating": 2 , 
- "categories": "Touch-Laptop",
- "title": "Dell - Inspiron 2-in-1 16” OLED Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD – NVIDIA GeForce MX550 - Atlantic Green",
- "price": 999,
- "realPrice":1200 , 
- "brand" :"Dell" , 
- "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. See your beautiful world whenever you want with the new Inspiron 16 2-in-1. It features an OLED display and 16:10 aspect ratio packed into a slim 2-in-1 design. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
- "color": "Green",
- "discount": "10",
-  "reviews" : ["Great Product" , "Value for money" ] , 
-  "Images": [  {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_sd.jpg;maxHeight=640;maxWidth=550" } , {"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_rd.jpg;maxHeight=640;maxWidth=550"} ,{"imageFront":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388cv3d.jpg;maxHeight=640;maxWidth=550"} ]  
-},
+      "id": 1,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 15.6' Touch-Screen - Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Natural Silver",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
+      "color": "Silver",
+      "discount": "42",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "HP - Spectre x360 2-in-1 13.5' 3K2K Touch-Screen Laptop - Intel Evo Core i7 - 16GB Memory - 1TB SSD - Pen Included - Nightfall Black",
+      "price": 1249,
+      "realPrice": 1800,
+      "brand": "HP",
+      "description": "Dynamic premium video experience: When you go live, you want to look your best. So turn it on for the 5MP GlamCam with Appearance Filter, Backlight Adjustment, Auto Frame, and AI noise reduction for the best, most productive calls. It also features a physical camera shutter for privacy, because when you’re on, you’re on, and when you’re not, you’re not Latest technology: This powerful machine comes with up to a 12th Gen Intel Core i7 processor and a 3:2 aspect ratio for a taller screen so you can see more.(20) With the x360 2-in-1 design you can use it as a laptop, flip it around to use it as a tablet or put it in tent mode to stream away. Because little things make a big difference: Crafted from recycled aluminum and ocean-bound plastics, this 2-in-1 laptop is EPEAT Gold Certified and ENERGY STAR rated so you can feel like you made a difference, along with a great choice",
+      "color": "Black",
+      "discount": "50",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 15.6' Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
+      "color": "Silver",
+      "discount": "32",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "categories": "PC Laptops",
+      "title": "HP - Stream 11.6' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Diamond White",
+      "price": 179,
+      "realPrice": 200,
+      "brand": "HP",
+      "description": "Extremely portable. Expressive design. Live your best life on-the-go and in style with a slim, expressive design. With its smooth finish, vertical brushed pattern, and pop of color, the HP Stream perfectly fits your personality. More features. More value. With an Intel processor and up to 13 hours and 15 minutes of video playback battery life, work all day or binge-watch your favorite shows – all while staying under budget. Plus, stay connected with fast Wi-Fi and all the ports you need. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "White",
+      "discount": "52",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 14' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Rose Gold",
+      "price": 189,
+      "realPrice": 350,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "Rose Gold",
+      "discount": "50",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "ASUS - Zenbook Flip 2-in-1 15.6' OLED Touch-Screen Laptop - Intel Evo - Core i7 - Intel Arc A370M - 16GB Memory - 1TB SSD - Azurite Blue",
+      "price": 1199,
+      "realPrice": 3000,
+      "brand": "ASUS",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "Blue",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv3d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "ASUS - Zenbook 14' 2.8K OLED Laptop - Intel Evo Platform - 12th Gen Core i5 Processor - 8GB Memory - 256GB SSD - Ponder Blue",
+      "price": 549,
+      "realPrice": 600,
+      "brand": "ASUS",
+      "description": "The powerful and compact Zenbook 14' OLED is just 0.67” slim and 3.06lbs light, with a breathtaking new design that’s timelessly elegant yet totally modern. Perfect visual experience from the 14” 16:10 2.8K OLED HDR NanoEdge, up to 600-nit screen which is PANTONE Validated with 100% DCI-P3 color gamut. The Intel EVO platform with 12th Gen Intel Core i5 Processor, Intel Iris Xe graphics, 8 GB RAM and 256GB PCIe 4.0 SSD deliver superb performance, and there’s a long-lasting 75 Wh battery and latest Wifi-6 built-in. For extraordinary audio experience, there’s a Dolby Atmos sound system powered by a smart amplifier with Harman/Kardon certified. The user-centric design includes one-touch login with a fingerprint sensor on the power button, the new ASUS ErgoSense keyboard, and the efficient ASUS NumberPad 2.0. ASUS Zenbook 14 OLED is the new benchmark for portable perfection.",
+      "color": "Blue",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "rating": 4,
+      "categories": "Chromebook",
+      "title": "ASUS - 14' Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver",
+      "price": 500,
+      "realPrice": 900,
+      "brand": "ASUS",
+      "description": "Simplify your life with the sleek and stylish ASUS Chromebook C425, the 14-inch laptop that has all the power to make light work of your daily tasks. Powered by up to an Intel Core m3 processor, ASUS Chromebook C425 boosts your productivity and lets you have more fun on the move — wherever you are, whatever you’re doing. Its compact NanoEdge design pops easily into any bag, and its all-day battery eliminates power-outlet anxiety for a worry-free lifestyle.",
+      "color": "Silver",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "rating": 5,
+      "categories": "Vivobook",
+      "title": "ASUS - Vivobook 17.3' Laptop - Intel Core 10th Gen i5 - 12GB Memory - 1TB HDD",
+      "price": 399,
+      "realPrice": 500,
+      "brand": "ASUS",
+      "description": "ASUS Vivobook Laptop. Enjoy everyday activities with this ASUS notebook PC. The Intel Core i5 processor and 12GB of RAM let you run programs smoothly, on the 17.3-inch",
+      "color": "Silver",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "rating": 5,
+      "categories": "PC Laptops",
+      "title": "ASUS - ROG Zephyrus 14” WQXGA 120Hz Gaming Laptop – AMD Ryzen 9– 16GB DDR5 Memory – AMD Radeon RX 6700S – 1TB PCIe 4.0 SSD",
+      "price": 1249,
+      "realPrice": 1600,
+      "brand": "ASUS",
+      "description": "Game like a pro on Windows 11 with this ROG Zephyrus G14. Double up on AMD firepower with Ryzen 9 6900HS CPU and Radeon RX 6700S GPU featuring exclusive AMD SmartShift and Smart Access Memory technology that dynamically boosts performance for any task. Be confident in screen quality with an ROG Nebula 120Hz Display. Leap into the next generation of memory and storage with 16GB of DDR5 RAM, and 1TB of PCIe 4.0 SSD storage.",
+      "color": "White",
+      "discount": "60",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv1d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv4d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop Go 2 - 12.4” Touch-Screen – Intel Core i5 – 8GB Memory - 128GB SSD (Latest Model) - Sage",
+      "price": 699,
+      "realPrice": 900,
+      "brand": "Microsoft",
+      "description": "A sleek, portable Surface Laptop with 12.4' PixelSense touchscreen¹ and great typing experience with precision trackpad, plus the ports you need. Now with an improved HD camera to look your best on video calls, new Windows 11 experiences,² long battery life,³ and a performance boost for the things you love to do. With 11th Gen Intel speed for day-to-day apps, streaming, and casual gaming. It’s signature Surface style, speed, and convenient security for you and everyone in your home.",
+      "color": "Green",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv13d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Pro 9 – 13' Touch Screen – Intel Evo Platform Core i7- 16GB Memory – 256GB SSD – Device Only (Latest Model) - Forest",
+      "price": 900,
+      "realPrice": 1000,
+      "brand": "Microsoft",
+      "description": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life¹ you need to move through your day — all in one ultra-portable device. Now with powerful new processors, and choice of vibrant colors.",
+      "color": "Green",
+      "discount": "40",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i5 – 8GB Memory – 512GB SSD (Latest Model) - Sandstone",
+      "price": 1244,
+      "realPrice": 1900,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Tan",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "rating": 2,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i7 – 16GB Memory – 512GB SSD (Latest Model) - Sandstone",
+      "price": 2000,
+      "realPrice": 5600,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Tan",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667_sd.jpg;maxHeight=200;maxWidth=300"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv15d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "rating": 5,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 15” Touch Screen – Intel Evo Platform Core i7 – 8GB Memory – 256GB SSD (Latest Model) - Platinum",
+      "price": 2500,
+      "realPrice": 3600,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Silver",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644_sd.jpg;maxHeight=200;maxWidth=300"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv12d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv11d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "rating": 4,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 14” FHD+ Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD - Platinum Silver",
+      "price": 1500,
+      "realPrice": 2000,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Silver",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381ld.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "rating": 3,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 16” FHD+ Touch Laptop – 12th Gen Intel Evo i7 – 16GB Memory – 512GB SSD - Platinum Silver",
+      "price": 1300,
+      "realPrice": 1900,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Silver",
+      "discount": "25",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "rating": 5,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 3511 15.6' Touch Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",
+      "price": 1200,
+      "realPrice": 1700,
+      "brand": "Dell",
+      "description": "The Inspiron laptop is designed with you and the environment in mind, using recycled plastics. Plus, it’s ENERGY STAR 8.0 certified and built with an ergonomic lift hinge design to keep you comfortably connected all day. The Inspiron 15 3000 is expertly designed to keep you connected, powered by the latest processors.",
+      "color": "Black",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646cv3d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_rd.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "rating": 4,
+      "categories": "Touch-Laptop",
+      "title": "Dell - XPS 13 Plus 13.4' OLED Touch-Screen Laptop – 12th Gen Intel Evo i7 - 32GB Memory - 1TB SSD - Black",
+      "price": 500,
+      "realPrice": 600,
+      "brand": "Dell",
+      "description": "XPS products are designed to be the best, withcutting-edge technologies, exceptional build quality,unique materials and powerful features. XPS brings together the most elegant designs and premiumexperiences to enhance your work and personalsuccess. This combination ultimately results in beautifully crafted products with no compromises. Introducing the new Dell XPS 13 Plus - our most powerful 13-inch XPS yet. Designed from the ground up to be our highest performing flagship 13 ever so you can do everything you love to do faster. The simplified interiors wow and the best-inclass panels bring your content to life. Featuring the latest Intel 12th Gen Intel Core Evo platform processors and displays with high resolution, brightness and color gamut to bring content to life. Simplified, modern and edge-to-edge interiors are beautiful and provide a seamless, touch-friendly experience for users.",
+      "color": "Black",
+      "discount": "5",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256cv10d.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "rating": 2,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 16” OLED Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD – NVIDIA GeForce MX550 - Atlantic Green",
+      "price": 999,
+      "realPrice": 1200,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. See your beautiful world whenever you want with the new Inspiron 16 2-in-1. It features an OLED display and 16:10 aspect ratio packed into a slim 2-in-1 design. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Green",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388cv3d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    }
+  ],
+  "PeopleAlsoBoughtLaptop": [
+    {
+      "id": 101,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6424/6424893_sd.jpg;maxHeight=200;maxWidth=300",
+      "title": "Bluetooth Fast Scrolling Mouse ",
+      "price": "79"
+    },
+    {
+      "id": 102,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6519/6519951_sd.jpg;maxHeight=200;maxWidth=300",
+      "title": "Wireless All in one Injket Printer",
+      "price": "200"
+    },
+    {
+      "id": 103,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6319/6319724_sd.jpg;maxHeight=200;maxWidth=300",
+      "title": "Epson - Color Document Scanner - Black",
+      "price": "150"
+    },
+    {
+      "id": 104,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453222cv11d.jpg;maxHeight=200;maxWidth=300",
+      "title": "Corsair T3 RUSH Gaming Chair - Charcoal",
+      "price": "319"
+    }
+  ],
 
-        
+  "AllProductsData": [
+    {
+      "id": 1,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 15.6' Touch-Screen - Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Natural Silver",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
+      "color": "Silver",
+      "discount": "42",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510531cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "HP - Spectre x360 2-in-1 13.5' 3K2K Touch-Screen Laptop - Intel Evo Core i7 - 16GB Memory - 1TB SSD - Pen Included - Nightfall Black",
+      "price": 1249,
+      "realPrice": 1800,
+      "brand": "HP",
+      "description": "Dynamic premium video experience: When you go live, you want to look your best. So turn it on for the 5MP GlamCam with Appearance Filter, Backlight Adjustment, Auto Frame, and AI noise reduction for the best, most productive calls. It also features a physical camera shutter for privacy, because when you’re on, you’re on, and when you’re not, you’re not Latest technology: This powerful machine comes with up to a 12th Gen Intel Core i7 processor and a 3:2 aspect ratio for a taller screen so you can see more.(20) With the x360 2-in-1 design you can use it as a laptop, flip it around to use it as a tablet or put it in tent mode to stream away. Because little things make a big difference: Crafted from recycled aluminum and ocean-bound plastics, this 2-in-1 laptop is EPEAT Gold Certified and ENERGY STAR rated so you can feel like you made a difference, along with a great choice",
+      "color": "Black",
+      "discount": "50",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502942cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 15.6' Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 82% screen to body ratio(40) – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel® processor and a solid state drive for speedy boot-up and snappier overall experience. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity.",
+      "color": "Silver",
+      "discount": "32",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510528cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "categories": "PC Laptops",
+      "title": "HP - Stream 11.6' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Diamond White",
+      "price": 179,
+      "realPrice": 200,
+      "brand": "HP",
+      "description": "Extremely portable. Expressive design. Live your best life on-the-go and in style with a slim, expressive design. With its smooth finish, vertical brushed pattern, and pop of color, the HP Stream perfectly fits your personality. More features. More value. With an Intel processor and up to 13 hours and 15 minutes of video playback battery life, work all day or binge-watch your favorite shows – all while staying under budget. Plus, stay connected with fast Wi-Fi and all the ports you need. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "White",
+      "discount": "52",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499940cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "categories": "PC Laptops",
+      "title": "HP - 14' Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Rose Gold",
+      "price": 189,
+      "realPrice": 350,
+      "brand": "HP",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "Rose Gold",
+      "discount": "50",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499942cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "ASUS - Zenbook Flip 2-in-1 15.6' OLED Touch-Screen Laptop - Intel Evo - Core i7 - Intel Arc A370M - 16GB Memory - 1TB SSD - Azurite Blue",
+      "price": 1199,
+      "realPrice": 3000,
+      "brand": "ASUS",
+      "description": "Take it anywhere. See more. With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen to body ratio – take this PC anywhere and see and do more. Reliable performance for every day: Powerful enough for your busiest days, this PC features an Intel processor and reliable flash-based storage at a great value. Powered up and productive. All day long. With a long battery life and fast-charge technology, this laptop lets you work, watch, and stay connected all day. Integrated precision touchpad with multi-touch support speeds up both navigation and productivity. Make the most out of your 365: Bring your ideas to life. Your creativity now gets a boost with Microsoft 365. Office - Word, Excel, and Power Point - now includes smart assistance features that help make your writing more readable, your data clearer and your presentations more visually powerful. One year subscription included.",
+      "color": "Blue",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv3d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501009cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rating": 4,
+      "categories": "PC Laptops",
+      "title": "ASUS - Zenbook 14' 2.8K OLED Laptop - Intel Evo Platform - 12th Gen Core i5 Processor - 8GB Memory - 256GB SSD - Ponder Blue",
+      "price": 549,
+      "realPrice": 600,
+      "brand": "ASUS",
+      "description": "The powerful and compact Zenbook 14' OLED is just 0.67” slim and 3.06lbs light, with a breathtaking new design that’s timelessly elegant yet totally modern. Perfect visual experience from the 14” 16:10 2.8K OLED HDR NanoEdge, up to 600-nit screen which is PANTONE Validated with 100% DCI-P3 color gamut. The Intel EVO platform with 12th Gen Intel Core i5 Processor, Intel Iris Xe graphics, 8 GB RAM and 256GB PCIe 4.0 SSD deliver superb performance, and there’s a long-lasting 75 Wh battery and latest Wifi-6 built-in. For extraordinary audio experience, there’s a Dolby Atmos sound system powered by a smart amplifier with Harman/Kardon certified. The user-centric design includes one-touch login with a fingerprint sensor on the power button, the new ASUS ErgoSense keyboard, and the efficient ASUS NumberPad 2.0. ASUS Zenbook 14 OLED is the new benchmark for portable perfection.",
+      "color": "Blue",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494331cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "rating": 4,
+      "categories": "Chromebook",
+      "title": "ASUS - 14' Chromebook - Intel Core M3-8100Y - 8GB Memory - 64GB eMMC - Silver",
+      "price": 500,
+      "realPrice": 900,
+      "brand": "ASUS",
+      "description": "Simplify your life with the sleek and stylish ASUS Chromebook C425, the 14-inch laptop that has all the power to make light work of your daily tasks. Powered by up to an Intel Core m3 processor, ASUS Chromebook C425 boosts your productivity and lets you have more fun on the move — wherever you are, whatever you’re doing. Its compact NanoEdge design pops easily into any bag, and its all-day battery eliminates power-outlet anxiety for a worry-free lifestyle.",
+      "color": "Silver",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6513/6513085cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "rating": 5,
+      "categories": "Vivobook",
+      "title": "ASUS - Vivobook 17.3' Laptop - Intel Core 10th Gen i5 - 12GB Memory - 1TB HDD",
+      "price": 399,
+      "realPrice": 500,
+      "brand": "ASUS",
+      "description": "ASUS Vivobook Laptop. Enjoy everyday activities with this ASUS notebook PC. The Intel Core i5 processor and 12GB of RAM let you run programs smoothly, on the 17.3-inch",
+      "color": "Silver",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6469/6469399cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "rating": 5,
+      "categories": "PC Laptops",
+      "title": "ASUS - ROG Zephyrus 14” WQXGA 120Hz Gaming Laptop – AMD Ryzen 9– 16GB DDR5 Memory – AMD Radeon RX 6700S – 1TB PCIe 4.0 SSD",
+      "price": 1249,
+      "realPrice": 1600,
+      "brand": "ASUS",
+      "description": "Game like a pro on Windows 11 with this ROG Zephyrus G14. Double up on AMD firepower with Ryzen 9 6900HS CPU and Radeon RX 6700S GPU featuring exclusive AMD SmartShift and Smart Access Memory technology that dynamically boosts performance for any task. Be confident in screen quality with an ROG Nebula 120Hz Display. Leap into the next generation of memory and storage with 16GB of DDR5 RAM, and 1TB of PCIe 4.0 SSD storage.",
+      "color": "White",
+      "discount": "60",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv1d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494638cv4d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop Go 2 - 12.4” Touch-Screen – Intel Core i5 – 8GB Memory - 128GB SSD (Latest Model) - Sage",
+      "price": 699,
+      "realPrice": 900,
+      "brand": "Microsoft",
+      "description": "A sleek, portable Surface Laptop with 12.4' PixelSense touchscreen¹ and great typing experience with precision trackpad, plus the ports you need. Now with an improved HD camera to look your best on video calls, new Windows 11 experiences,² long battery life,³ and a performance boost for the things you love to do. With 11th Gen Intel speed for day-to-day apps, streaming, and casual gaming. It’s signature Surface style, speed, and convenient security for you and everyone in your home.",
+      "color": "Green",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv13d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505200cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Pro 9 – 13' Touch Screen – Intel Evo Platform Core i7- 16GB Memory – 256GB SSD – Device Only (Latest Model) - Forest",
+      "price": 900,
+      "realPrice": 1000,
+      "brand": "Microsoft",
+      "description": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life¹ you need to move through your day — all in one ultra-portable device. Now with powerful new processors, and choice of vibrant colors.",
+      "color": "Green",
+      "discount": "40",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517649cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "rating": 3,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i5 – 8GB Memory – 512GB SSD (Latest Model) - Sandstone",
+      "price": 1244,
+      "realPrice": 1900,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Tan",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517659cv14d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "rating": 2,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 13.5” Touch Screen – Intel Evo Platform Core i7 – 16GB Memory – 512GB SSD (Latest Model) - Sandstone",
+      "price": 2000,
+      "realPrice": 5600,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Tan",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667_sd.jpg;maxHeight=200;maxWidth=300"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv11d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517667cv15d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "rating": 5,
+      "categories": "Touch-Screen",
+      "title": "Microsoft - Surface Laptop 5 – 15” Touch Screen – Intel Evo Platform Core i7 – 8GB Memory – 256GB SSD (Latest Model) - Platinum",
+      "price": 2500,
+      "realPrice": 3600,
+      "brand": "Microsoft",
+      "description": "Multitasking speed powered by 12th Gen Intel Core, with Windows 11 and a vibrant PixelSense touchscreen. Sleek and beautiful, in choice of size — 13.5” or 15” — and colors from bold to subtle, including new Sage.¹ Plus battery life² for real life to do your thing your way all day. Surface Laptop 5 gives you the perfect balance to do it all on your terms and make an impact.",
+      "color": "Silver",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644_sd.jpg;maxHeight=200;maxWidth=300"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv12d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517644cv11d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "rating": 4,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 14” FHD+ Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD - Platinum Silver",
+      "price": 1500,
+      "realPrice": 2000,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Silver",
+      "discount": "30",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504381ld.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "rating": 3,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 16” FHD+ Touch Laptop – 12th Gen Intel Evo i7 – 16GB Memory – 512GB SSD - Platinum Silver",
+      "price": 1300,
+      "realPrice": 1900,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. You won’t have to sacrifice screen size for a mobile design, and with multiple technologies that help your eyes work or play in comfort, the new Inspiron 14 2-in-1’s display is made to please. With a 16:10 FHD+ display and 360 lift hinge, the new Inspiron 14 2-in-1 lets you experience amazing visuals in any mode. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Silver",
+      "discount": "25",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504380cv1d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "rating": 5,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 3511 15.6' Touch Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Black",
+      "price": 1200,
+      "realPrice": 1700,
+      "brand": "Dell",
+      "description": "The Inspiron laptop is designed with you and the environment in mind, using recycled plastics. Plus, it’s ENERGY STAR 8.0 certified and built with an ergonomic lift hinge design to keep you comfortably connected all day. The Inspiron 15 3000 is expertly designed to keep you connected, powered by the latest processors.",
+      "color": "Black",
+      "discount": "20",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646cv3d.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500646_rd.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "rating": 4,
+      "categories": "Touch-Laptop",
+      "title": "Dell - XPS 13 Plus 13.4' OLED Touch-Screen Laptop – 12th Gen Intel Evo i7 - 32GB Memory - 1TB SSD - Black",
+      "price": 500,
+      "realPrice": 600,
+      "brand": "Dell",
+      "description": "XPS products are designed to be the best, withcutting-edge technologies, exceptional build quality,unique materials and powerful features. XPS brings together the most elegant designs and premiumexperiences to enhance your work and personalsuccess. This combination ultimately results in beautifully crafted products with no compromises. Introducing the new Dell XPS 13 Plus - our most powerful 13-inch XPS yet. Designed from the ground up to be our highest performing flagship 13 ever so you can do everything you love to do faster. The simplified interiors wow and the best-inclass panels bring your content to life. Featuring the latest Intel 12th Gen Intel Core Evo platform processors and displays with high resolution, brightness and color gamut to bring content to life. Simplified, modern and edge-to-edge interiors are beautiful and provide a seamless, touch-friendly experience for users.",
+      "color": "Black",
+      "discount": "5",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256ld.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518256cv10d.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "rating": 2,
+      "categories": "Touch-Laptop",
+      "title": "Dell - Inspiron 2-in-1 16” OLED Touch Laptop – 12th Gen Intel Core i7 – 16GB Memory – 512GB SSD – NVIDIA GeForce MX550 - Atlantic Green",
+      "price": 999,
+      "realPrice": 1200,
+      "brand": "Dell",
+      "description": "Optimized with technology that simplifies your life, Inspiron 2-in-1 laptops offer a range of easy-to-use features all packaged in a minimalist and modern design. See your beautiful world whenever you want with the new Inspiron 16 2-in-1. It features an OLED display and 16:10 aspect ratio packed into a slim 2-in-1 design. Your world is closer with powerful 12th Generation Intel Core processors. It also has a 360 degree hinge that allows you to work in 4 different modes - laptop, tablet, tent and stand. And if that’s not all, your Inspiron features environmentally-conscious designs that complement not just your style but also your values.",
+      "color": "Green",
+      "discount": "10",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_sd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388_rd.jpg;maxHeight=640;maxWidth=550"
+        },
+        {
+          "imageFront": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504388cv3d.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
+    },
 
-  
-
-  
     {
       "id": 24,
       "categories": "",
@@ -612,10 +1000,7 @@
       "description": "This is US Version, 256GB, Black - Unlocked (Renewed), Comes with warranty of 2 Years.",
       "color": "black",
       "discount": "4000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/813ovO0PGGL._AC_SL1500_.jpg"
@@ -638,10 +1023,7 @@
       "description": "Vivo Present You with a Vivo V9, 6.3-inches Dual SIM Factory Unlocked Gold",
       "color": "gold",
       "discount": "1000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/71lQCbf2buL._AC_SL1500_.jpg"
@@ -664,10 +1046,7 @@
       "description": "This product has 6.28-inches Dual SIM Factory Unlocked - Taiwan Stock No Warranty (Red)",
       "color": "red",
       "discount": "2000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/51g6x4i4oaL._AC_SL1000_.jpg"
@@ -690,10 +1069,7 @@
       "description": "Present you with new style which has HD+ Display, 64GB+3GB RAM - Gradient Blue",
       "color": "blue",
       "discount": "3000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/81jtQzN4OnL._AC_SL1500_.jpg"
@@ -716,10 +1092,7 @@
       "description": "This has 32GB Unlocked Verizon/GSM Phone - Black, with more power",
       "color": "black",
       "discount": "1000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/417vW6gxbyL._AC_.jpg"
@@ -742,10 +1115,7 @@
       "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
       "color": "blue",
       "discount": "3000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/71DCZOdq92S._AC_SL1500_.jpg"
@@ -768,10 +1138,7 @@
       "description": "It has Android Smart Phone |6.43 | AMOLED Display|6+128GB |U.S. Unlocked |4500 mAh Battery | 33W Fast Charging",
       "color": "blue",
       "discount": "5000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/71hIjJkMqFL._AC_SL1500_.jpg"
@@ -794,10 +1161,7 @@
       "description": "It has 5G Android Smartphone | 8GB+128GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
       "color": "black",
       "discount": "4000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/61iEEZhRt5L._AC_SL1500_.jpg"
@@ -820,10 +1184,7 @@
       "description": "It has 6.52 Unlocked Cell Phone, 50MP Camera, 5000mAh, Single SIM, US Version, Latest 5G Technology",
       "color": "black",
       "discount": "2000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/614aimxFGrL._AC_SL1500_.jpg"
@@ -846,10 +1207,7 @@
       "description": "It has Factory Unlocked Android Smartphone, 256GB, Hands Free Camera, Foldable Design, Informative Cover Screen",
       "color": "blue",
       "discount": "4000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/614WIYgWg7L._AC_SL1500_.jpg"
@@ -872,10 +1230,7 @@
       "description": "It has FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, Pro Grade Camera, All Day Intelligent Battery",
       "color": "black",
       "discount": "5000",
-      "reviews": [
-        "Great Product",
-        "Value for money"
-      ],
+      "reviews": ["Great Product", "Value for money"],
       "Images": [
         {
           "imageFront": "https://m.media-amazon.com/images/I/51yPq54K+ZL._AC_SL1201_.jpg"
@@ -888,439 +1243,797 @@
         }
       ]
     }
-  
-], 
+  ],
 
-
-"mens":[
+  "mens": [
     {
-     "id": 1,
-     "rating": 3 , 
-  "categories": "shirts",
-  "title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
-  "price": 399,
-  "realPrice":600 , 
-  "brand" :"CarbonnCloth" , 
-  "description": "Carbonn Cloth presents to you a new range of stylish and cool new Shirts yet which are affordable for everyone .These comes in different sizes and colors, for everybody's taste",
-  "color": "black",
-  "discount": "42",
-   "reviews" : ["Great Product" , "Value for money" ] , 
-   "Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70" } , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/9/v/3/s-crc-den-01-carbonn-cloth-original-imag3uyx2crqr6me.jpeg?q=70"} ,{"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/b/c/t/s-crc-den-01-carbonn-cloth-original-imag3uyxgrrxxyrq.jpeg?q=70"} ] , 
+      "id": 1,
+      "rating": 3,
+      "categories": "shirts",
+      "title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "CarbonnCloth",
+      "description": "Carbonn Cloth presents to you a new range of stylish and cool new Shirts yet which are affordable for everyone .These comes in different sizes and colors, for everybody's taste",
+      "color": "black",
+      "discount": "42",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/9/v/3/s-crc-den-01-carbonn-cloth-original-imag3uyx2crqr6me.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/b/c/t/s-crc-den-01-carbonn-cloth-original-imag3uyxgrrxxyrq.jpeg?q=70"
+        }
+      ],
 
-   "mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70"
-} ,
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/3/w/s-crc-den-01-carbonn-cloth-original-imag3uyxer7hbwcj-bb.jpeg?q=70"
+    },
 
-{
-  "id":2 ,
-  "rating": 4  , 
-"categories": "shirts",
-"title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
-"price": 500 ,
-"realPrice":700 , 
-"brand" :"CarbonnCloth" , 
-"description": "This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/h/3/j/m-crc-den-01-carbonn-blue-original-imafv2h7g7bvgfdz-bb.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ked56kw0-0/shirt/a/s/l/m-crc-den-01-carbonn-blue-original-imafv2h82unperfz.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ked56kw0-0/shirt/v/b/j/m-crc-den-01-carbonn-blue-original-imafv2h7zbhxnuna.jpeg?q=70"} ] , 
+    {
+      "id": 2,
+      "rating": 4,
+      "categories": "shirts",
+      "title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
+      "price": 500,
+      "realPrice": 700,
+      "brand": "CarbonnCloth",
+      "description": "This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/h/3/j/m-crc-den-01-carbonn-blue-original-imafv2h7g7bvgfdz-bb.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ked56kw0-0/shirt/a/s/l/m-crc-den-01-carbonn-blue-original-imafv2h82unperfz.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ked56kw0-0/shirt/v/b/j/m-crc-den-01-carbonn-blue-original-imafv2h7zbhxnuna.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/h/3/j/m-crc-den-01-carbonn-blue-original-imafv2h7g7bvgfdz-bb.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/h/3/j/m-crc-den-01-carbonn-blue-original-imafv2h7g7bvgfdz-bb.jpeg?q=70"
+    },
 
-{
-  "id":3 ,
-  "rating": 3 , 
-"categories": "shirts",
-"title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
-"price": 299,
-"realPrice":600 , 
-"brand" :"CarbonnCloth" , 
-"description": "This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
-"color": "grey",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/n/y/s-crc-den-01-carbonn-cloth-original-imag3uyxtxa2j5r2-bb.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/w/8/r/s-crc-den-01-carbonn-cloth-original-imag3uyx6k9jwjfa.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/1/r/g/s-crc-den-01-carbonn-cloth-original-imag3uyx5m67cj3q.jpeg?q=70"} ] , 
+    {
+      "id": 3,
+      "rating": 3,
+      "categories": "shirts",
+      "title": "Men Regular Fit Solid Cut Away Collar Casual Shirt",
+      "price": 299,
+      "realPrice": 600,
+      "brand": "CarbonnCloth",
+      "description": "This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
+      "color": "grey",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/n/y/s-crc-den-01-carbonn-cloth-original-imag3uyxtxa2j5r2-bb.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/w/8/r/s-crc-den-01-carbonn-cloth-original-imag3uyx6k9jwjfa.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/1/r/g/s-crc-den-01-carbonn-cloth-original-imag3uyx5m67cj3q.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/n/y/s-crc-den-01-carbonn-cloth-original-imag3uyxtxa2j5r2-bb.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/n/y/s-crc-den-01-carbonn-cloth-original-imag3uyxtxa2j5r2-bb.jpeg?q=70"
+    },
 
-{
-  "id":4 ,
-  "rating": 5  , 
-"categories": "shirts",
-"title": "Men Regular Fit Self Design Sports Shirt",
-"price": 499,
-"realPrice":790 , 
-"brand" :"CarbonnCloth" , 
-"description":"This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/4/5/l-crc-ch-01-carbonn-cloth-original-imag3uyxrg7azzhh-bb.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/m/h/c/l-crc-ch-01-carbonn-cloth-original-imag3uyx5gkvdgtt.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/2/g/u/l-crc-ch-01-carbonn-cloth-original-imag3uyxdvcq5zhp.jpeg?q=70"} ] , 
+    {
+      "id": 4,
+      "rating": 5,
+      "categories": "shirts",
+      "title": "Men Regular Fit Self Design Sports Shirt",
+      "price": 499,
+      "realPrice": 790,
+      "brand": "CarbonnCloth",
+      "description": "This shirt is made from premium quality material. Durable quality with a stylish look makes it a must have on your shelves.",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/4/5/l-crc-ch-01-carbonn-cloth-original-imag3uyxrg7azzhh-bb.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/m/h/c/l-crc-ch-01-carbonn-cloth-original-imag3uyx5gkvdgtt.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kpmy8i80/shirt/2/g/u/l-crc-ch-01-carbonn-cloth-original-imag3uyxdvcq5zhp.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/4/5/l-crc-ch-01-carbonn-cloth-original-imag3uyxrg7azzhh-bb.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/1/4/5/l-crc-ch-01-carbonn-cloth-original-imag3uyxrg7azzhh-bb.jpeg?q=70"
+    },
 
-{
-  "id":5 ,
-  "rating": 3  , 
-"categories": "jacket",
-"title": "Men Full Sleeve Printed Hooded Sweatshirt",
-"price": 350,
-"realPrice":550 , 
-"brand" :"caveofcloths" , 
-"description": "88% premium cotton which is breathable and comfortable. No color fading. Minimal shrinkage with a guarantee that it will not lose the original shape and size. 2 times softer. 4 times stronger.",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/a/n/g/l-coc0149b-cave-of-cloths-original-imaghd7hbszcpuxq.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/u/t/l/l-coc0149b-cave-of-cloths-original-imaghd7hhnhvy23f.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/3/h/x/m-coc0002hab-cave-of-cloths-original-imaggxa2vscjwvkn.jpeg?q=70"} ] , 
+    {
+      "id": 5,
+      "rating": 3,
+      "categories": "jacket",
+      "title": "Men Full Sleeve Printed Hooded Sweatshirt",
+      "price": 350,
+      "realPrice": 550,
+      "brand": "caveofcloths",
+      "description": "88% premium cotton which is breathable and comfortable. No color fading. Minimal shrinkage with a guarantee that it will not lose the original shape and size. 2 times softer. 4 times stronger.",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/a/n/g/l-coc0149b-cave-of-cloths-original-imaghd7hbszcpuxq.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/u/t/l/l-coc0149b-cave-of-cloths-original-imaghd7hhnhvy23f.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/3/h/x/m-coc0002hab-cave-of-cloths-original-imaggxa2vscjwvkn.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/a/n/g/l-coc0149b-cave-of-cloths-original-imaghd7hbszcpuxq.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/a/n/g/l-coc0149b-cave-of-cloths-original-imaghd7hbszcpuxq.jpeg?q=70"
+    },
 
-{
-  "id":6 ,
-  "rating": 2 , 
-"categories": "jacket",
-"title": "Men Full Sleeve Printed Hooded Sweatshirt",
-"price": 99,
-"realPrice":190 , 
-"brand" :"caveofcloths" , 
-"description": "88% premium cotton which is breathable and comfortable. No color fading. Minimal shrinkage with a guarantee that it will not lose the original shape and size. 2 times softer. 4 times stronger.",
-"color": "white",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/r/3/q/xxl-coc0151w-cave-of-cloths-original-imaghfheycshhm4s.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/4/1/s/l-coc0143haw-cave-of-cloths-original-imagh6gxfxxrkfmx.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/i/n/p/xl-coc0151b-cave-of-cloths-original-imaghfh5nnudjezx.jpeg?q=70"} ] , 
+    {
+      "id": 6,
+      "rating": 2,
+      "categories": "jacket",
+      "title": "Men Full Sleeve Printed Hooded Sweatshirt",
+      "price": 99,
+      "realPrice": 190,
+      "brand": "caveofcloths",
+      "description": "88% premium cotton which is breathable and comfortable. No color fading. Minimal shrinkage with a guarantee that it will not lose the original shape and size. 2 times softer. 4 times stronger.",
+      "color": "white",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/r/3/q/xxl-coc0151w-cave-of-cloths-original-imaghfheycshhm4s.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/4/1/s/l-coc0143haw-cave-of-cloths-original-imagh6gxfxxrkfmx.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/i/n/p/xl-coc0151b-cave-of-cloths-original-imaghfh5nnudjezx.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/r/3/q/xxl-coc0151w-cave-of-cloths-original-imaghfheycshhm4s.jpeg?q=70"
-}, 
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweatshirt/r/3/q/xxl-coc0151w-cave-of-cloths-original-imaghfheycshhm4s.jpeg?q=70"
+    },
 
-{
-  "id":7 ,
-  "rating": 5  , 
-"categories": "coatpant",
-"title": "Unstitched Viscose Rayon Suit Fabric Solid",
-"price": 899,
-"realPrice":999 , 
-"brand" :"lorex" , 
-"description": "CAN USE IN 5 STYLES WITH FASHION, PANTS , WAISTCOAT, PANT-WAISTCOAT, 2 PIECE ,3PIECE",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l5h2xe80/fabric/c/e/b/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imagg4wzdrhzfvcn.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/d/l/u/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imaghn7yzz3x6vu6.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/9/p/l/no-3-m-unstitched-na-3piece-lorex-original-imagkn5g2mq5nhxv.jpeg?q=70"} ] , 
+    {
+      "id": 7,
+      "rating": 5,
+      "categories": "coatpant",
+      "title": "Unstitched Viscose Rayon Suit Fabric Solid",
+      "price": 899,
+      "realPrice": 999,
+      "brand": "lorex",
+      "description": "CAN USE IN 5 STYLES WITH FASHION, PANTS , WAISTCOAT, PANT-WAISTCOAT, 2 PIECE ,3PIECE",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l5h2xe80/fabric/c/e/b/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imagg4wzdrhzfvcn.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/d/l/u/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imaghn7yzz3x6vu6.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/9/p/l/no-3-m-unstitched-na-3piece-lorex-original-imagkn5g2mq5nhxv.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l5h2xe80/fabric/c/e/b/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imagg4wzdrhzfvcn.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l5h2xe80/fabric/c/e/b/no-3-m-unstitched-na-3pieceblacksuit-lorex-original-imagg4wzdrhzfvcn.jpeg?q=70"
+    },
 
-{
-  "id":8 ,
-  "rating": 5  , 
-"categories": "coatpant",
-"title": "Unstitched Viscose Rayon Suit Fabric Self Design",
-"price": 109,
-"realPrice":400 , 
-"brand" :"lorex" , 
-"description": "COMES IN CARDBOARD PACKING, GOOD FOR GIFTING ALSO, CAN USE BLAZER & PANTS SPERATELY AFTER STICHING",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/k/p/n/no-2-m-unstitched-na-black-suit-fabric-lorex-original-imaghhy9uf3xpvmc.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/2/x/b/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5chvgnmjwz.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/q/d/h/no-1-70-m-unstitched-na-blacklycrauit-fabric-lorex-original-imagkd4krv6mhj8t.jpeg?q=70"} ] , 
+    {
+      "id": 8,
+      "rating": 5,
+      "categories": "coatpant",
+      "title": "Unstitched Viscose Rayon Suit Fabric Self Design",
+      "price": 109,
+      "realPrice": 400,
+      "brand": "lorex",
+      "description": "COMES IN CARDBOARD PACKING, GOOD FOR GIFTING ALSO, CAN USE BLAZER & PANTS SPERATELY AFTER STICHING",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/k/p/n/no-2-m-unstitched-na-black-suit-fabric-lorex-original-imaghhy9uf3xpvmc.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/2/x/b/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5chvgnmjwz.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/q/d/h/no-1-70-m-unstitched-na-blacklycrauit-fabric-lorex-original-imagkd4krv6mhj8t.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/k/p/n/no-2-m-unstitched-na-black-suit-fabric-lorex-original-imaghhy9uf3xpvmc.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/k/p/n/no-2-m-unstitched-na-black-suit-fabric-lorex-original-imaghhy9uf3xpvmc.jpeg?q=70"
+    },
 
-{
-  "id":9 ,
-  "rating": 4  , 
-"categories": "coatpant",
-"title": "Unstitched Polycotton Suit Fabric Solid",
-"price": 199,
-"realPrice":200 , 
-"brand" :"lorex" , 
-"description": "Lorex brands which deals in best quality of fabrics , we deals in finest quality of plain slub textured fabric for an ideal suit an MEN's FASHION DESIRE which comes in an3.00 meters pack contains 1.8meter for blazer or coat & 1.2 meters for pants or trouser.it is suitable for 6.5feet person & upto 42 size , content of fabric ( POLY VISCOSE ) which is best in the market with its smooth & shiny lusture and gives the soft feel after wearing, which is suitable in every season. color of the fabric is PURE BLACK which may Slightly Vary Due to Photographic Effect Lorex fabrics always gives u an stunning look and branded feeling, The Fabric is best for personal use as well as gifting in wedding , parties ,anniversary etc. with best human satisfaction.",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/fabric/t/2/j/no-1-80-m-unstitched-na-blacksuitsb-lorex-original-imagg4a5vanbmwnx.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/2/x/b/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5chvgnmjwz.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/s/9/f/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5cgsrs4szm.jpeg?q=70"} ] , 
+    {
+      "id": 9,
+      "rating": 4,
+      "categories": "coatpant",
+      "title": "Unstitched Polycotton Suit Fabric Solid",
+      "price": 199,
+      "realPrice": 200,
+      "brand": "lorex",
+      "description": "Lorex brands which deals in best quality of fabrics , we deals in finest quality of plain slub textured fabric for an ideal suit an MEN's FASHION DESIRE which comes in an3.00 meters pack contains 1.8meter for blazer or coat & 1.2 meters for pants or trouser.it is suitable for 6.5feet person & upto 42 size , content of fabric ( POLY VISCOSE ) which is best in the market with its smooth & shiny lusture and gives the soft feel after wearing, which is suitable in every season. color of the fabric is PURE BLACK which may Slightly Vary Due to Photographic Effect Lorex fabrics always gives u an stunning look and branded feeling, The Fabric is best for personal use as well as gifting in wedding , parties ,anniversary etc. with best human satisfaction.",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/fabric/t/2/j/no-1-80-m-unstitched-na-blacksuitsb-lorex-original-imagg4a5vanbmwnx.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/2/x/b/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5chvgnmjwz.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4zxn680/fabric/s/9/f/no-1-m-unstitched-na-blackwaistcoat-lorex-original-imagfs5cgsrs4szm.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/fabric/t/2/j/no-1-80-m-unstitched-na-blacksuitsb-lorex-original-imagg4a5vanbmwnx.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/fabric/t/2/j/no-1-80-m-unstitched-na-blacksuitsb-lorex-original-imagg4a5vanbmwnx.jpeg?q=70"
+    },
 
-{
-  "id":10 ,
-  "rating": 5  , 
-"categories": "coatpant",
-"title": "Unstitched Viscose Rayon Suit Fabric Solid",
-"price": 500,
-"realPrice":600 , 
-"brand" :"lorex" , 
-"description": "Lorex brands which deals in best quality of fabrics , we deals in finest quality of plain slub textured fabric for an ideal suit an MEN's FASHION DESIRE which comes in an3.00 meters pack contains 1.8meter for blazer or coat & 1.2 meters for pants or trouser.it is suitable for 6.5feet person & upto 42 size , content of fabric ( POLY VISCOSE ) which is best in the market with its smooth & shiny lusture and gives the soft feel after wearing, which is suitable in every season. color of the fabric is SKY BLUE which may Slightly Vary Due to Photographic Effect Lorex fabrics always gives u an stunning look and branded feeling, The Fabric is best for personal use as well as gifting in wedding , parties ,anniversary etc. with best human satisfaction.",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/fabric/f/b/y/no-1-70-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagcum7tawzfpdx.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/g/x/t/no-2-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagkrqqfuzzhdyp.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/u/f/p/no-2-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagkrqqwy2jxjzn.jpeg?q=70"} ] , 
+    {
+      "id": 10,
+      "rating": 5,
+      "categories": "coatpant",
+      "title": "Unstitched Viscose Rayon Suit Fabric Solid",
+      "price": 500,
+      "realPrice": 600,
+      "brand": "lorex",
+      "description": "Lorex brands which deals in best quality of fabrics , we deals in finest quality of plain slub textured fabric for an ideal suit an MEN's FASHION DESIRE which comes in an3.00 meters pack contains 1.8meter for blazer or coat & 1.2 meters for pants or trouser.it is suitable for 6.5feet person & upto 42 size , content of fabric ( POLY VISCOSE ) which is best in the market with its smooth & shiny lusture and gives the soft feel after wearing, which is suitable in every season. color of the fabric is SKY BLUE which may Slightly Vary Due to Photographic Effect Lorex fabrics always gives u an stunning look and branded feeling, The Fabric is best for personal use as well as gifting in wedding , parties ,anniversary etc. with best human satisfaction.",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/fabric/f/b/y/no-1-70-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagcum7tawzfpdx.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/g/x/t/no-2-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagkrqqfuzzhdyp.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/u/f/p/no-2-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagkrqqwy2jxjzn.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/fabric/f/b/y/no-1-70-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagcum7tawzfpdx.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/fabric/f/b/y/no-1-70-m-unstitched-na-sky-blue-suit-fabric-lorex-original-imagcum7tawzfpdx.jpeg?q=70"
+    },
 
-{
-  "id":11 ,
-  "rating": 3 , 
-"categories": "coatpant",
-"title": "Self Design Men Waistcoat",
-"price": 399,
-"realPrice":600 , 
-"brand" :"lorex" , 
-"description": "Premium jackets wear by bran LOREX in with ROYALE quality for rich class looks best for weddings and parties , read size chart before order :- Your Chest must be between 32-36 inches & Your waist must be between 28-32 inches . best for boys with age of 18-25, WITH DETAILED STICHING",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/d/e/2/m-premium-waistcoats-lorex-original-imagkpxhj6hzgck7.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/r/c/h/m-premium-waistcoats-lorex-original-imagkpxhvgpafxej.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/k/l/v/m-premium-waistcoats-lorex-original-imagkpxhyq5pejka.jpeg?q=70"} ] , 
+    {
+      "id": 11,
+      "rating": 3,
+      "categories": "coatpant",
+      "title": "Self Design Men Waistcoat",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "lorex",
+      "description": "Premium jackets wear by bran LOREX in with ROYALE quality for rich class looks best for weddings and parties , read size chart before order :- Your Chest must be between 32-36 inches & Your waist must be between 28-32 inches . best for boys with age of 18-25, WITH DETAILED STICHING",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/d/e/2/m-premium-waistcoats-lorex-original-imagkpxhj6hzgck7.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/r/c/h/m-premium-waistcoats-lorex-original-imagkpxhvgpafxej.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/k/l/v/m-premium-waistcoats-lorex-original-imagkpxhyq5pejka.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/d/e/2/m-premium-waistcoats-lorex-original-imagkpxhj6hzgck7.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/d/e/2/m-premium-waistcoats-lorex-original-imagkpxhj6hzgck7.jpeg?q=70"
+    },
 
-{
-  "id":12 ,
-  "rating": 3  , 
-"categories": "coatpant",
-"title": "Self Design Men Waistcoat",
-"price": 249,
-"realPrice": 549 , 
-"brand" :"lorex" , 
-"description": "Premium jackets wear by bran LOREX in with ROYALE quality for rich class looks best for weddings and parties , read size chart before order :- Your Chest must be between 32-36 inches & Your waist must be between 28-32 inches . best for boys with age of 18-25, WITH DETAILED STICHING",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/n/6/a/m-premium-waistcoats-lorex-original-imagkpxhvfjpvgea.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/q/n/j/m-premium-waistcoats-lorex-original-imagkpxhakyfj54p.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/x/l/5/m-premium-waistcoats-lorex-original-imagkpxhktbzatzh.jpeg?q=70"} ] , 
+    {
+      "id": 12,
+      "rating": 3,
+      "categories": "coatpant",
+      "title": "Self Design Men Waistcoat",
+      "price": 249,
+      "realPrice": 549,
+      "brand": "lorex",
+      "description": "Premium jackets wear by bran LOREX in with ROYALE quality for rich class looks best for weddings and parties , read size chart before order :- Your Chest must be between 32-36 inches & Your waist must be between 28-32 inches . best for boys with age of 18-25, WITH DETAILED STICHING",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/n/6/a/m-premium-waistcoats-lorex-original-imagkpxhvfjpvgea.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/q/n/j/m-premium-waistcoats-lorex-original-imagkpxhakyfj54p.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/x/l/5/m-premium-waistcoats-lorex-original-imagkpxhktbzatzh.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/n/6/a/m-premium-waistcoats-lorex-original-imagkpxhvfjpvgea.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/xif0q/waistcoat/n/6/a/m-premium-waistcoats-lorex-original-imagkpxhvfjpvgea.jpeg?q=70"
+    },
 
-{
-  "id":13 ,
-  "rating": 4  , 
-"categories": "tshirts",
-"title": "Striped Men Round Neck T-Shirt Men Striped Round Neck Grey T-Shirt",
-"price": 699,
-"realPrice":999 , 
-"brand" :"redcloth" , 
-"description": "Striped Men Round Neck T-Shirt Men Striped Round Neck Grey T-Shirt",
-"color": "white",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/d/b/2/l-gray-103-red-cloth-original-imagb8khdpbgsj87.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/y/7/b/l-gray-103-red-cloth-original-imagb8kh57efec8d.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/b/s/8/l-gray-103-red-cloth-original-imagb8khsptuwbqm.jpeg?q=70"} ] , 
+    {
+      "id": 13,
+      "rating": 4,
+      "categories": "tshirts",
+      "title": "Striped Men Round Neck T-Shirt Men Striped Round Neck Grey T-Shirt",
+      "price": 699,
+      "realPrice": 999,
+      "brand": "redcloth",
+      "description": "Striped Men Round Neck T-Shirt Men Striped Round Neck Grey T-Shirt",
+      "color": "white",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/d/b/2/l-gray-103-red-cloth-original-imagb8khdpbgsj87.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/y/7/b/l-gray-103-red-cloth-original-imagb8kh57efec8d.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/b/s/8/l-gray-103-red-cloth-original-imagb8khsptuwbqm.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/d/b/2/l-gray-103-red-cloth-original-imagb8khdpbgsj87.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/d/b/2/l-gray-103-red-cloth-original-imagb8khdpbgsj87.jpeg?q=70"
+    },
 
-{
-  "id":14 ,
-  "rating": 5  , 
-"categories": "tshirts",
-"title": "Men Striped Round Neck White T-Shirt",
-"price": 699,
-"realPrice":900 , 
-"brand" :"redcloth" , 
-"description": "Men Striped Round Neck White T-Shirt",
-"color": "white",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/t/d/0/m-white-103-red-cloth-original-imagb8jytaqvytup.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/l/s/6/m-white-103-red-cloth-original-imagb8jyrfuaghpg.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/e/f/s/l-white-103-red-cloth-original-imagb8jyyadf6ku6.jpeg?q=70"} ] , 
+    {
+      "id": 14,
+      "rating": 5,
+      "categories": "tshirts",
+      "title": "Men Striped Round Neck White T-Shirt",
+      "price": 699,
+      "realPrice": 900,
+      "brand": "redcloth",
+      "description": "Men Striped Round Neck White T-Shirt",
+      "color": "white",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/t/d/0/m-white-103-red-cloth-original-imagb8jytaqvytup.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/l/s/6/m-white-103-red-cloth-original-imagb8jyrfuaghpg.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/e/f/s/l-white-103-red-cloth-original-imagb8jyyadf6ku6.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/t/d/0/m-white-103-red-cloth-original-imagb8jytaqvytup.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/t/d/0/m-white-103-red-cloth-original-imagb8jytaqvytup.jpeg?q=70"
+    },
 
-{
-  "id":15 ,
-  "rating": 5  , 
-"categories":"tshirts",
-"title": "Men Solid Round Neck Black T-Shirt",
-"price": 600,
-"realPrice":650 , 
-"brand" :"redcloth" , 
-"description": "Men Solid Round Neck Black T-Shirt",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/q/u/y/l-blue-103-red-cloth-original-imagb8kbfdetazqz.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/x/9/f/l-blue-103-red-cloth-original-imagb8kbbktm7kbr.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/m/t/h/l-blue-103-red-cloth-original-imagb8kbnw5vehjn.jpeg?q=70"} ] , 
+    {
+      "id": 15,
+      "rating": 5,
+      "categories": "tshirts",
+      "title": "Men Solid Round Neck Black T-Shirt",
+      "price": 600,
+      "realPrice": 650,
+      "brand": "redcloth",
+      "description": "Men Solid Round Neck Black T-Shirt",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/q/u/y/l-blue-103-red-cloth-original-imagb8kbfdetazqz.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/x/9/f/l-blue-103-red-cloth-original-imagb8kbbktm7kbr.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/m/t/h/l-blue-103-red-cloth-original-imagb8kbnw5vehjn.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/q/u/y/l-blue-103-red-cloth-original-imagb8kbfdetazqz.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/kz5vwy80/t-shirt/q/u/y/l-blue-103-red-cloth-original-imagb8kbfdetazqz.jpeg?q=70"
+    },
 
-{
-  "id":16 ,
-  "rating": 4  , 
-"categories": "shirts",
-"title": "Unstitched Polycotton Shirt Fabric Printed",
-"price": 300,
-"realPrice":600 , 
-"brand" :"citystyle" , 
-"description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
-"color": "black",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/a/m/l/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4ab9ngfah.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70"} ] , 
+    {
+      "id": 16,
+      "rating": 4,
+      "categories": "shirts",
+      "title": "Unstitched Polycotton Shirt Fabric Printed",
+      "price": 300,
+      "realPrice": 600,
+      "brand": "citystyle",
+      "description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
+      "color": "black",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/a/m/l/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4ab9ngfah.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/fabric/n/5/w/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-mom-dad-original-imagdzc4fyqbg9yz.jpeg?q=70"
+    },
 
-{
-  "id":17 ,
-  "rating": 3  , 
-"categories": "shirts",
-"title": "Unstitched Polycotton Shirt Fabric Printed",
-"price": 99,
-"realPrice":200 , 
-"brand" :"citystyle" , 
-"description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
-"color": "red",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/l/s/z/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyfzgsf2ndg.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70"} ] , 
+    {
+      "id": 17,
+      "rating": 3,
+      "categories": "shirts",
+      "title": "Unstitched Polycotton Shirt Fabric Printed",
+      "price": 99,
+      "realPrice": 200,
+      "brand": "citystyle",
+      "description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
+      "color": "red",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/l/s/z/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyfzgsf2ndg.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l0pm3680/fabric/w/l/h/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-design-original-imagcgyffwdxaesn.jpeg?q=70"
+    },
 
-{
-  "id":18 ,
-  "rating": 2  , 
-"categories": "shirts",
-"title": "Unstitched Polycotton Shirt Fabric Printed",
-"price": 599,
-"realPrice":899 , 
-"brand" :"citystyle" , 
-"description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
-"color": "red",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/s/g/b/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9z9qymhv9y.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70"} ] , 
+    {
+      "id": 18,
+      "rating": 2,
+      "categories": "shirts",
+      "title": "Unstitched Polycotton Shirt Fabric Printed",
+      "price": 599,
+      "realPrice": 899,
+      "brand": "citystyle",
+      "description": "Comfortable and soft printed shirt fabric for men with high quality material. we always Launching creative and unique designs for festive season and functions they can change in your personality. It's Skin friendly and breathable fabric. Color may slightly vary due to display brightness setting.",
+      "color": "red",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/s/g/b/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9z9qymhv9y.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/l4ssfww0/fabric/x/9/o/no-2-35-m-unstitched-na-premium-quality-shirt-fabric-couple-original-imagfm9zd83gurd6.jpeg?q=70"
+    },
 
-{
-  "id":19 ,
-  "rating": 2  , 
-"categories": "jacket",
-"title": "Men Solid Casual Jacket",
-"price": 399,
-"realPrice":600 , 
-"brand" :"derbenny" , 
-"description": "Comfortable mens jacket gives you protection from harsh cold weather,cotton blend gives you extra comfort",
-"color": "grey",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/l/g/w/xl-no-greyjacketmen6-r-d-trading-original-imag678wt7kkmpeb.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/4/v/l/xl-no-greyjacketmen6-r-d-trading-original-imag678wgz3zggz2.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/k/8/h/xl-no-greyjacketmen6-r-d-trading-original-imag678wgmztjcb2.jpeg?q=70"} ] , 
+    {
+      "id": 19,
+      "rating": 2,
+      "categories": "jacket",
+      "title": "Men Solid Casual Jacket",
+      "price": 399,
+      "realPrice": 600,
+      "brand": "derbenny",
+      "description": "Comfortable mens jacket gives you protection from harsh cold weather,cotton blend gives you extra comfort",
+      "color": "grey",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/l/g/w/xl-no-greyjacketmen6-r-d-trading-original-imag678wt7kkmpeb.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/4/v/l/xl-no-greyjacketmen6-r-d-trading-original-imag678wgz3zggz2.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/k/8/h/xl-no-greyjacketmen6-r-d-trading-original-imag678wgmztjcb2.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/l/g/w/xl-no-greyjacketmen6-r-d-trading-original-imag678wt7kkmpeb.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/l/g/w/xl-no-greyjacketmen6-r-d-trading-original-imag678wt7kkmpeb.jpeg?q=70"
+    },
 
-{
-  "id":20 ,
-  "rating": 4  , 
-"categories": "jacket",
-"title": "Men Solid Bomber Jacket",
-"price": 400,
-"realPrice":500 , 
-"brand" :"derbenny" , 
-"description": "Stay warm this winter while you wear this light weight Grey coloured TPU bomber jacket from the house of MASONIC. Tailored in Regular fit for extreme comfort and softness. This light weight bomber jacket can be paired with denims and a pair of casual shoes to give a stylish look.",
-"color": "grey",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/l-bomber-tpu-derbenny-original-imafx64wzqrhmfap.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/xl-bomber-tpu-derbenny-original-imafx64wdgwtyehw.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/xxl-bomber-tpu-derbenny-original-imafx64wjazjg9yt.jpeg?q=70"} ] , 
+    {
+      "id": 20,
+      "rating": 4,
+      "categories": "jacket",
+      "title": "Men Solid Bomber Jacket",
+      "price": 400,
+      "realPrice": 500,
+      "brand": "derbenny",
+      "description": "Stay warm this winter while you wear this light weight Grey coloured TPU bomber jacket from the house of MASONIC. Tailored in Regular fit for extreme comfort and softness. This light weight bomber jacket can be paired with denims and a pair of casual shoes to give a stylish look.",
+      "color": "grey",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/l-bomber-tpu-derbenny-original-imafx64wzqrhmfap.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/xl-bomber-tpu-derbenny-original-imafx64wdgwtyehw.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/xxl-bomber-tpu-derbenny-original-imafx64wjazjg9yt.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/l-bomber-tpu-derbenny-original-imafx64wzqrhmfap.jpeg?q=70"
-},
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/kh2b4i80/jacket/v/g/n/l-bomber-tpu-derbenny-original-imafx64wzqrhmfap.jpeg?q=70"
+    },
 
-{
-  "id":21 ,
-  "rating": 4  , 
-"categories": "jacket",
-"title": "Men Solid Casual Jacket",
-"price": 700,
-"realPrice":900 , 
-"brand" :"derbenny" , 
-"description": "Standard Quality Cloths material Stylish one .made for winter purpose.",
-"color": "blue",
-"discount": "1",
-"reviews" : ["Great Product" , "Value for money" ] , 
-"Images": [  {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/w/w/n/xl-no-bluejacketmen2-r-d-trading-original-imag676zyqhqzmf7.jpeg?q=70" }
- , {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/b/g/g/xl-no-bluejacketmen2-r-d-trading-original-imag676z6mqud55b.jpeg?q=70"} ,
- {"imageFront":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/j/u/t/xl-no-bluejacketmen2-r-d-trading-original-imag676zrd2hqgty.jpeg?q=70"} ] , 
+    {
+      "id": 21,
+      "rating": 4,
+      "categories": "jacket",
+      "title": "Men Solid Casual Jacket",
+      "price": 700,
+      "realPrice": 900,
+      "brand": "derbenny",
+      "description": "Standard Quality Cloths material Stylish one .made for winter purpose.",
+      "color": "blue",
+      "discount": "1",
+      "reviews": ["Great Product", "Value for money"],
+      "Images": [
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/w/w/n/xl-no-bluejacketmen2-r-d-trading-original-imag676zyqhqzmf7.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/b/g/g/xl-no-bluejacketmen2-r-d-trading-original-imag676z6mqud55b.jpeg?q=70"
+        },
+        {
+          "imageFront": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/j/u/t/xl-no-bluejacketmen2-r-d-trading-original-imag676zrd2hqgty.jpeg?q=70"
+        }
+      ],
 
-"mainImage":"https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/w/w/n/xl-no-bluejacketmen2-r-d-trading-original-imag676zyqhqzmf7.jpeg?q=70"
-}
+      "mainImage": "https://rukminim1.flixcart.com/image/832/832/ksoz53k0/jacket/w/w/n/xl-no-bluejacketmen2-r-d-trading-original-imag676zyqhqzmf7.jpeg?q=70"
+    }
+  ],
 
-],
+  "getReview": [
+    {
+      "id": 1,
+      "review": 4
+    },
+    {
+      "review": 5,
+      "id": 2
+    },
+    {
+      "review": 4,
+      "id": 3
+    },
+    {
+      "review": 5,
+      "id": 4
+    },
+    {
+      "review": 5,
+      "id": 5
+    }
+  ],
 
-"getReview": [
-  {
-    "id": 1,
-    "review": 4 
-  },
-  {
-    "review": 5,
-    "id": 2
-  },
-  {
-    "review": 4,
-    "id": 3
-  },
-  {
-    "review": 5,
-    "id": 4
-  },
-  {
-    "review": 5,
-    "id": 5 
-  }
-] ,
+  "realState": [
+    {
+      "id": 1,
+      "type": "Private",
+      "price": 50000,
+      "adress": "Near Gurudwara",
+      "location": "Delhi",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg"
+    },
 
+    {
+      "id": 2,
+      "type": "Private",
+      "price": 60000,
+      "adress": "Near Gurudwara",
+      "location": "Noida",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2017/08/30/07/56/money-2696229__340.jpg"
+    },
 
-"realState":[
-  
-]
+    {
+      "id": 3,
+      "type": "Private",
+      "price": 65000,
+      "adress": "Near Gurudwara",
+      "location": "Ghaziabad",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2012/03/04/00/43/architecture-22039__340.jpg"
+    },
 
+    {
+      "id": 4,
+      "type": "Private",
+      "price": 70000,
+      "adress": "Near Gurudwara",
+      "location": "Mumbai",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/04/25/23/30/house-1353389__340.jpg"
+    },
 
+    {
+      "id": 5,
+      "type": "Private",
+      "price": 75000,
+      "adress": "Near Gurudwara",
+      "location": "Rajasthan",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/house-1867187__340.jpg"
+    },
+    {
+      "id": 6,
+      "type": "Private",
+      "price": 90000,
+      "adress": "Near Gurudwara",
+      "location": "Bangaluru",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/09/22/11/55/kitchen-1687121__340.jpg"
+    },
+    {
+      "id": 7,
+      "type": "Private",
+      "price": 85000,
+      "adress": "Near Gurudwara",
+      "location": "Kolkata",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg"
+    },
 
+    {
+      "id": 8,
+      "type": "Private",
+      "price": 80000,
+      "adress": "Near Gurudwara",
+      "location": "Jaipur",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2017/06/13/22/42/kitchen-2400367__340.jpg"
+    },
 
+    {
+      "id": 9,
+      "type": "Private",
+      "price": 95000,
+      "adress": "Near Gurudwara",
+      "location": "Uttarakhand",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/07/26/18/30/kitchen-1543493__340.jpg"
+    },
+
+    {
+      "id": 10,
+      "type": "Private",
+      "price": 100000,
+      "adress": "Near Gurudwara",
+      "location": "Kerela",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg"
+    },
+
+    {
+      "id": 11,
+      "type": "Private",
+      "price": 85000,
+      "adress": "Near Gurudwara",
+      "location": "Dehradun",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2017/06/13/22/42/kitchen-2400367__340.jpg"
+    },
+
+    {
+      "id": 12,
+      "type": "Private",
+      "price": 105000,
+      "adress": "Near Gurudwara",
+      "location": "Bhopal",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/07/26/18/30/kitchen-1543493__340.jpg"
+    },
+
+    {
+      "id": 13,
+      "type": "Private",
+      "price": 95000,
+      "adress": "Near Gurudwara",
+      "location": "Goa",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2014/09/18/11/56/skyscrapers-450793__340.jpg"
+    },
+
+    {
+      "id": 14,
+      "type": "Private",
+      "price": 80000,
+      "adress": "Near Gurudwara",
+      "location": "Mathura",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2020/06/25/10/21/architecture-5339245__340.jpg"
+    },
+
+    {
+      "id": 15,
+      "type": "Private",
+      "price": 90000,
+      "adress": "Near Gurudwara",
+      "location": "Nainital",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2021/10/07/15/23/real-estate-6688945__340.jpg"
+    },
+
+    {
+      "id": 16,
+      "type": "Private",
+      "price": 75000,
+      "adress": "Near Gurudwara",
+      "location": "Assam",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2020/12/16/00/10/home-5835289__340.jpg"
+    },
+
+    {
+      "id": 17,
+      "type": "Private",
+      "price": 70000,
+      "adress": "Near Gurudwara",
+      "location": "Bihar",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2021/02/09/20/45/architecture-5999913__340.jpg"
+    },
+
+    {
+      "id": 18,
+      "type": "Private",
+      "price": 60000,
+      "adress": "Near Gurudwara",
+      "location": "Lucknow",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2016/05/21/21/52/house-1407562__340.jpg"
+    },
+
+    {
+      "id": 19,
+      "type": "Private",
+      "price": 110000,
+      "adress": "Near Gurudwara",
+      "location": "Jhansi",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2018/07/27/00/32/interior-design-3564955__340.jpg"
+    },
+
+    {
+      "id": 20,
+      "type": "Private",
+      "price": 65000,
+      "adress": "Near Gurudwara",
+      "location": "Punjab",
+      "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
+      "image": "https://cdn.pixabay.com/photo/2018/10/28/12/44/interior-3778708__340.jpg"
+    }
+  ]
 }
