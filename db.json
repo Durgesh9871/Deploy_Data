@@ -2035,5 +2035,9 @@
       "description": "It has 5G Unlocked Android Smartphone U.S Version | 6.49 Full HD+LCD Screen Large 5000mAh Battery | 64GB Storage",
       "image": "https://cdn.pixabay.com/photo/2018/10/28/12/44/interior-3778708__340.jpg"
     }
+  ] ,
+
+  "realStateLogin":[
+    {"id":1 ,"name":"dev" ,"email":"dev@gmail.com" ,"password":"1234","gender":"male" }
   ]
 }
